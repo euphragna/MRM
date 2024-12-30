@@ -1,0 +1,13 @@
+<div class="pkp_block block_custom" id="customblock-indexing">
+	<h2 class="title pkp_screen_reader">indexing</h2>
+	<div class="content">
+		<div class="indexing">
+<h3>Indexing</h3>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; max-width: 600px; margin: 20px;">
+<div style="position: relative; overflow: hidden; border-radius: 2px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;"><a style="text-decoration: none; width: 100%; height: 100%;" href="https://sinta.kemdikbud.go.id/" target="_blank" rel="noopener noreferrer"> <img style="width: 100%; height: auto; display: block; transition: transform 0.3s ease;" src="https://i.ibb.co/41kXTyy/image-2.png" alt="sinta"> </a></div>
+<div style="position: relative; overflow: hidden; border-radius: 2px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;"><a style="text-decoration: none; width: 100%; height: 100%; color: white;" href="https://scholar.google.com/" target="_blank" rel="noopener noreferrer"> <img style="width: 100%; height: auto; display: block; transition: transform 0.3s ease;" src="https://i.ibb.co/QHpLQqv/image-3.png" alt="google scholar"> </a></div>
+<div style="position: relative; overflow: hidden; border-radius: 2px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;"><a style="text-decoration: none; display: block; width: 100%; height: 100%; color: white;" href="https://garuda.kemdikbud.go.id/" target="_blank" rel="noopener noreferrer"> <img style="width: 100%; height: auto; transition: transform 0.3s ease;" src="https://i.ibb.co/1dgQQMN/image-4.png" alt="garuda"> </a></div>
+<div style="position: relative; overflow: hidden; border-radius: 2px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;"><a style="text-decoration: none; display: block; width: 100%; height: 100%; color: white;" href="https://www.dimensions.ai/" target="_blank" rel="noopener noreferrer"> <img style="width: 100%; height: auto; transition: transform 0.3s ease;" src="https://i.ibb.co/gSc3jFp/image-5.png" alt="dimensions"> </a></div>
+</div>
+</div>
+	</div>
