@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Additional Menu with Icons</title>
+    <!-- Make sure this link is included in the head section -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="your-stylesheet.css"> <!-- Your custom stylesheet -->
+</head>
+<body>
+
+<div class="pkp_structure_sidebar">
+    <div class="pkp_block">
+        <h3>Additional Menu</h3>
+        <!-- Focus and Scope -->
+        <a href="https://journal.uns.ac.id/index.php/mrm/policies" target="_blank" rel="noopener">
+            <i class="fa-solid fa-pen"></i> Focus and Scope
+        </a>
+        <!-- Author Guidelines -->
+        <a href="https://journal.uns.ac.id/index.php/mrm/author-guidelines" target="_blank" rel="noopener">
+            <i class="fa-solid fa-book"></i> Author Guidelines
+        </a>
+        <!-- Editorial Board -->
+        <a href="https://journal.uns.ac.id/index.php/mrm/editorial-board" target="_blank" rel="noopener">
+            <i class="fa-solid fa-users"></i> Editorial Board
+        </a>
+        <!-- Reviewer List -->
+        <a href="https://journal.uns.ac.id/index.php/mrm/reviewer-list" target="_blank" rel="noopener">
+            <i class="fa-solid fa-list"></i> Reviewer List
+        </a>
+        <!-- Peer Review Process -->
+        <a href="https://journal.uns.ac.id/index.php/mrm/peer-review-process" target="_blank" rel="noopener">
+            <i class="fa-solid fa-search"></i> Peer Review Process
+        </a>
+        <!-- Review Policy -->
+        <a href="https://journal.uns.ac.id/index.php/mrm/review-policy" target="_blank" rel="noopener">
+            <i class="fa-solid fa-file-alt"></i> Review Policy
+        </a>
+        <!-- Publication Ethics -->
+        <a href="https://journal.uns.ac.id/index.php/mrm/publication-ethics" target="_blank" rel="noopener">
+            <i class="fa-solid fa-gavel"></i> Publication Ethics
+        </a>
+    </div>
+</div>
+
+</body>
+</html>
