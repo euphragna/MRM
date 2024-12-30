@@ -1,12 +1,12 @@
 <div class="sidebar-menu">
 <h3>Additional Menu</h3>
 <ul>
-<li><a href="https://journal.uns.ac.id/index.php/mrm/policies" target="_blank" rel="noopener"> Focus and Scope</a></li>
-<li><a href="https://journal.uns.ac.id/index.php/mrm/author-guidelines" target="_blank" rel="noopener"> Author Guidelines</a></li>
-<li><a href="https://journal.uns.ac.id/index.php/mrm/editorial-board" target="_blank" rel="noopener"> Editorial Board</a></li>
-<li><a href="https://journal.uns.ac.id/index.php/mrm/reviewer-list" target="_blank" rel="noopener"> Reviewer List</a></li>
-<li><a href="https://journal.uns.ac.id/index.php/mrm/peer-review-process" target="_blank" rel="noopener"> Peer Review Process</a></li>
-<li><a href="https://journal.uns.ac.id/index.php/mrm/review-policy" target="_blank" rel="noopener"> Review Policy</a></li>
-<li><a href="https://journal.uns.ac.id/index.php/mrm/publication-ethics" target="_blank" rel="noopener"> Publication Ethics</a></li>
+<li><a href="https://journal.uns.ac.id/index.php/mrm/policies#focus-and-scope" rel="noopener"> Focus and Scope</a></li>
+<li><a href="https://journal.uns.ac.id/index.php/mrm/about/submissions" rel="noopener"> Author Guidelines</a></li>
+<li><a href="https://journal.uns.ac.id/index.php/mrm/about/editorialTeam" rel="noopener"> Editorial Board</a></li>
+<li><a href="https://journal.uns.ac.id/index.php/mrm/about/editorialTeam" rel="noopener"> Reviewer List</a></li>
+<li><a href="https://journal.uns.ac.id/index.php/mrm/policies#peer-review-process" rel="noopener"> Peer Review Process</a></li>
+<li><a href="https://journal.uns.ac.id/index.php/mrm/policies#open-access-policy" rel="noopener"> Review Policy</a></li>
+<li><a href="https://journal.uns.ac.id/index.php/mrm/policies#publication-ethics" rel="noopener"> Publication Ethics</a></li>
 </ul>
 </div>
