@@ -1,0 +1,191 @@
+/* General Styling */
+body {
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Sidebar Menu Styling */
+.pkp_structure_sidebar {
+    width: 25%;
+    float: right;
+    background-color: #007cae; /* Ubah warna sidebar menjadi biru */
+    padding: 15px;
+    margin-top: 0; /* Sidebar tidak mepet ke navigation bar */
+    margin-bottom: 0; /* Sidebar tidak mepet ke footer */
+    color: white; /* Teks sidebar berwarna putih */
+    min-height: calc(100vh - 100px); /* Menghindari nempel dengan navbar dan footer */
+}
+
+.pkp_block block_make_submission {
+    display: inline-flex;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2px;
+    background: #FFE492
+}
+
+.pkp_structure_main {
+    width: 70%;
+    float: left;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+/* Sidebar Block */
+.pkp_block {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: transparent;
+    border: none;
+}
+
+.pkp_block h3 {
+    margin-top: 0;
+    font-size: 1.2em;
+    color: white; /* Warna judul menu sidebar putih */
+    border-bottom: 5px solid #FFE492; /* Garis kuning di bawah judul */
+    padding-bottom: 5px; /* Jarak teks dari garis */
+}
+
+.pkp_block a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 8px 12px;
+    position: relative;
+}
+
+.pkp_block a:hover {
+    color: white; /* Warna teks tetap putih saat hover */
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.10) -8.57%, rgba(255, 255, 255, 0.00) 100%); /* Gradiasi putih campur biru */
+}
+
+.pkp_block a:focus {
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.10) -8.57%, rgba(255, 255, 255, 0.00) 100%); /* Gradiasi tetap saat diklik */
+    color: white; /* Warna teks tetap putih saat klik */
+}
+
+.pkp_block a::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 5px;
+    background: #FFE492; /* Garis putih di tepi kiri teks */
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.pkp_block a:hover::before, .pkp_block a:focus::before {
+    opacity: 1; /* Tampilkan garis putih saat hover atau klik */
+}
+
+/* Navigation Bar Styling */
+.pkp_navigation_primary_row {
+    background-color: #007cae;
+    z-index: 10;
+    padding: 15px 20px;
+    position: sticky;
+    top: 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.pkp_navigation_primary_row a {
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 1em;
+}
+
+.pkp_navigation_primary_row a:hover {
+    color: white;
+    border-bottom: 2px solid #FFE492;
+}
+
+.pkp_navigation_primary_row a:focus {
+    color: white;
+    border-bottom: 2px solid #FFE492;
+}
+
+/* Header and Footer Styling */
+.pkp_structure_header {
+    background-color: #007cae;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.pkp_structure_footer_wrapper {
+    background-color: #007cae;
+    color: white;
+    font-size: 0.9em;
+    text-align: center;
+    padding: 10px;
+    max-width: 100%;
+    margin-top: 20px;
+}
+
+/* Download Article Styling */
+#customblock-papertemplate {
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: transparent;
+    border: none;
+}
+
+#customblock-papertemplate a {
+    color: #007dae00;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#customblock-papertemplate a:hover {
+    text-decoration: underline;
+}
+
+/* Visitor Statistics Styling */
+#customblock-statistic, #customblock-flagcounter {
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: transparent;
+    border: none;
+}
+
+/* Indexing Block Styling */
+#customblock-indexing {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: transparent;
+    border: none;
+}
+
+#customblock-indexing img {
+    max-width: 100px;
+    margin: 5px;
+}
+
+/* Clearfix for Floats */
+.pkp_structure_page::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Hover Effect for Sidebar Focus and Scope */
+.pkp_block:hover {
+    background-color: transparent;
+    box-shadow: none;
+}
