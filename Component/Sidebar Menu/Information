@@ -1,0 +1,13 @@
+<div class="pkp_block block_custom" id="customblock-information">
+	<h2 class="title pkp_screen_reader">Information</h2>
+	<div class="content">
+		<div class="information">
+<h3>Information</h3>
+<ul>
+<li><a class="menu-link" href="https://journal.uns.ac.id/index.php/mrm/information/readers" target="_blank" rel="noopener"> For Readers </a></li>
+<li><a class="menu-link" href="https://journal.uns.ac.id/index.php/mrm/information/authors" target="_blank" rel="noopener"> For Authors </a></li>
+<li><a class="menu-link" href="https://journal.uns.ac.id/index.php/mrm/information/librarians" target="_blank" rel="noopener"> For Librarians</a></li>
+</ul>
+</div>
+	</div>
+</div>
