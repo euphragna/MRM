@@ -1,5 +1,5 @@
 # Front-End Improvement Project  
-This project aims to enhance the design of the *Media Riset Manajemen FEB UNS* OJS website.  
+This project aims to enhance the design of the MRM OJS website.  
 
 ## 📌 Project Objectives  
 1. Improve the visual design of the website.  
