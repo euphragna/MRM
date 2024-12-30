@@ -9,3 +9,5 @@ This project aims to enhance the design of the MRM OJS website.
 ## 🛠 Technologies Used  
 - *HTML5*: For the website structure.  
 - *CSS3*: For styling and layout.  
+
+## Notes
