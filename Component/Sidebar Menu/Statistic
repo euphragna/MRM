@@ -1,0 +1,20 @@
+<div class="pkp_block block_custom" id="customblock-statistic">
+	<h2 class="title pkp_screen_reader">statistic</h2>
+	<div class="content">
+		<div class="statistic">
+<h3>Statistic</h3>
+<!-- Default Statcounter code for MRM Website
+https://journal.uns.ac.id/index.php/mrm/index --><noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/13070944/0/f043880f/0/" alt="Web Analytics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript><!-- End of Statcounter Code -->
+<p><a href="https://statcounter.com/p13070944/?guest=1">MRM Statistic</a></p>
+</div>
+	</div>
+</div>
+<div class="pkp_block block_custom" id="customblock-flagcounter">
+	<h2 class="title pkp_screen_reader">flagcounter</h2>
+	<div class="content">
+		<p><a href="https://info.flagcounter.com/U5au"><img src="https://s05.flagcounter.com/count2/U5au/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a></p>
+	</div>
+</div>
